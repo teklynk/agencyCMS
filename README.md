@@ -9,3 +9,4 @@ Enjoy!
 
 # Screenshots
 ![screenshot01](https://raw.githubusercontent.com/teklynk/agencyCMS/master/screenshot_01.png)
+![screenshot02](https://raw.githubusercontent.com/teklynk/agencyCMS/master/screenshot_02.png)
