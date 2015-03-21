@@ -3,7 +3,9 @@ Bootstrap agency web site with admin panel. PHP, MySQL. Simple setup.
 Uses Bootstrap Agency Theme for the front end. http://startbootstrap.com/template-overviews/agency/
 Admin panel was built using SB Admin theme http://startbootstrap.com/template-overviews/sb-admin/
 
-In general, the code and database is really simple. Implementing the site on your own host/server is also simple. Please read the install.txt file for install instructions.
+In general, the code and database is really simple. Implementing the site on your own host/server is also simple.
+
+Install: Create a database using PHPMyAdmin. Go to http://www.yourwebsite.com/admin/install.php. Setup DB connection and create an Admin user. That is it!
 
 Enjoy!
 
