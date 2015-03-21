@@ -305,7 +305,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <form name="sentMessage" id="contactForm" method="post" action="mail/sendmail.asp">
+                    <form name="sentMessage" id="contactForm" method="post" action="mail/contact_me.php">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
