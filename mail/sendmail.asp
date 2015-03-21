@@ -2,12 +2,12 @@
 'Edit these setting for your SMTP server/account
 
 'smtp.gmail.com
-smtpServer = "smtp.gmail.com" 
+smtpServer = "" 
 '465
-smtpPort = 465
+smtpPort = 
 'myemail@gmail.com
-smtpAccount = "ryanjonessmtp@gmail.com"
-smtpPasswd = "gmail8675309"
+smtpAccount = ""
+smtpPasswd = ""
 'redirect back to contact form or home page
 redirectPage = "../index.php?msgsent=thankyou#contact"
 'if an error occurs
