@@ -1,11 +1,6 @@
 <?php
 include 'dbconn.php';
 
-//check if dbconn.php is setup/configured
-if ($db_servername == "" || $db_username == "" || $db_password == "" || $db_name == "") {
-    echo "<div style='color:#990000; padding:12px; margin:12px; border:solid 1px #990000;'>Database connection is not set. Please visit the <a href='install.php'>installer</a></div>";
-    exit();
-}
 
 //Global Vars - Edit values for your web site. leave as is in most cases.
 $image_dir = "../uploads/"; //physical path to uploads folder
