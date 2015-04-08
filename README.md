@@ -1,4 +1,6 @@
 # agencyCMS
+THIS IS NOT CODE COMPLETE - STILL IN PROGRESS
+
 Bootstrap agency web site with admin panel. PHP, MySQL. Simple setup.
 Uses Bootstrap Agency Theme for the front end. http://startbootstrap.com/template-overviews/agency/
 Admin panel was built using SB Admin theme http://startbootstrap.com/template-overviews/sb-admin/
