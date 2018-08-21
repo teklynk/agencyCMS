@@ -1,5 +1,6 @@
+# This project is no longer being maintained. Please feel free to fork this project. It is a good starting point but is not bug free. If you have a bug fix please submit a pull request for me to review.
+
 # agencyCMS
-THIS IS NOT CODE COMPLETE - STILL IN PROGRESS
 
 Bootstrap agency web site with admin panel. PHP, MySQL. Simple setup.
 Uses Bootstrap Agency Theme for the front end. http://startbootstrap.com/template-overviews/agency/
